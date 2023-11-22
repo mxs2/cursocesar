@@ -9,3 +9,6 @@ Undergrad Intern do Voxar Labs, representante de turma GTI Cesar School 2023.2A,
 Sua descrição.
 - Email: exemplo@cesar.school 
 
+## Caio Amaral 
+Aluno Cesar School GTI 2023.2A 
+- Email: cjam@cesar.school
