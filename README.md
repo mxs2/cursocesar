@@ -23,6 +23,14 @@ Selecione o perfil para o qual o repositório será _forkado_ e pronto.
 
 Após o processo de fork o repositório em questão deverá aparecer na sua lista de repositórios pessoal. Note que ao invés de `mxs2/cursocesar` o repositório carregará **seu** nome `seuNome/cursocesar` pois afinal, agora ele _pertence_ a você.
 
+Navegue pelo seu terminal até a pasta onde você deseja clonar o repositório, recomendamos a pasta `Documentos` para que o repositório fique em um local de fácil acesso:
+
+`cd Documentos` ou `cd Documents`
+
+`mkdir GitHub`
+
+`cd GitHub`
+
 Realize um clone desse repositório para sua máquina com o seguinte comando via `git clone`.
 
 `git clone https://github.com/seuNome/cursocesar.git`
@@ -81,7 +89,7 @@ Então, se tudo deu certo ao acessar o **[repositório original](https://github.
 
 # 5 - Crie seu pull request
 
-Alguns repositórios fazem uso de templates para auxiliar as pessoas no processo de elaboração de uma boa mensagem de pull request.
+Alguns repositórios fazem uso de templates para auxiliar as pessoas no processo de elaboração de uma boa mensagem de pull request e para que o mesmo seja aceito.
 
 Clique em `Create pull request` e :tada: parabéns.
 
